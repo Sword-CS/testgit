@@ -6,3 +6,4 @@ test add before
 dev 111
 333
 fast-forward
+bug branch test
